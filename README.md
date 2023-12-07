@@ -1,0 +1,1 @@
+# symposium_event_management
